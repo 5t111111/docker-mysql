@@ -1,6 +1,6 @@
 # docker-mysql
 
-Official MySQL image with UTF8 character set and `ja_JP.UTF-8 UTF-8` locale.
+Official MySQL image with utf8mb4 character set and `ja_JP.UTF-8 UTF-8` locale.
 
 __/etc/mysql/conf.d/charset.cnf__
 
